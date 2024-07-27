@@ -1,4 +1,5 @@
 
-/1-node-farm/node_modules
-/4-natours/node_modules
-4-natours/config.env
+
+/node_modules
+/config.env
+/.cache
